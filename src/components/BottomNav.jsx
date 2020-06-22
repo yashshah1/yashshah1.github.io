@@ -12,7 +12,7 @@ export default function BottomNav() {
         <OutdomainLink url="https://github.com/yashshah1">
           Projects
         </OutdomainLink>{" "}
-        &#183; <a href="/">Home</a>
+        &#183; <Link to="/">Home</Link>
       </p>
     </nav>
   );
