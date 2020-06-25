@@ -1,6 +1,5 @@
 import React from "react";
-import { Header, BottomNav } from "./";
-import OutdomainLink from "../helpers/OutdomainLink";
+import { Header, BottomNav, OutdomainLink } from "./";
 
 export default function About() {
   return (

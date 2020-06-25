@@ -5,9 +5,10 @@ import {
   FaGithub,
   FaStackOverflow,
   FaInstagram,
+  FaTwitter,
 } from "react-icons/fa";
 import { FiMail } from "react-icons/fi";
-import OutdomainLink from "../helpers/OutdomainLink";
+import { OutdomainLink } from "./";
 
 class Contact extends Component {
   constructor(props) {
@@ -31,7 +32,7 @@ class Contact extends Component {
         <Reveal when={this.state.show} duration={20}>
           <div
             style={{
-              marginTop: "0.5rem",
+              marginTop: "1.2rem",
               display: "flex",
               flexDirection: "row",
               justifyContent: "space-between",
@@ -48,11 +49,12 @@ class Contact extends Component {
             <OutdomainLink url="https://github.com/yashshah1">
               <FaStackOverflow size={32} />
             </OutdomainLink>
-
             <OutdomainLink url="https://instagram.com/itsmeyashshah">
               <FaInstagram size={32} />
             </OutdomainLink>
-
+            <OutdomainLink url="https://twitter.com/YashSha94471292">
+              <FaTwitter size={32} />
+            </OutdomainLink>
             <OutdomainLink url="mailto:yashah1234@gmail.com">
               <FiMail size={32} />
             </OutdomainLink>

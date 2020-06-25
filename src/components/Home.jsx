@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Contact } from "./";
-import OutdomainLink from "../helpers/OutdomainLink";
+import { Contact, OutdomainLink } from "./";
 import Reveal from "react-reveal/Reveal";
 
 export default function Home() {
