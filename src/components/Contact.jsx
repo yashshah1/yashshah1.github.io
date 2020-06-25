@@ -52,7 +52,7 @@ class Contact extends Component {
             <OutdomainLink url="https://instagram.com/itsmeyashshah">
               <FaInstagram size={32} />
             </OutdomainLink>
-            <OutdomainLink url="https://twitter.com/YashSha94471292">
+            <OutdomainLink url="https://twitter.com/JustAnotherYash">
               <FaTwitter size={32} />
             </OutdomainLink>
             <OutdomainLink url="mailto:yashah1234@gmail.com">
