@@ -40,13 +40,13 @@ class Contact extends Component {
               flexWrap: "wrap",
             }}
           >
-            <OutdomainLink url="https://linedin.com/in/yashshah13/">
+            <OutdomainLink url="https://linkedin.com/in/yashshah13/">
               <FaLinkedinIn size={32} />
             </OutdomainLink>
             <OutdomainLink url="https://github.com/yashshah1">
               <FaGithub size={32} />
             </OutdomainLink>
-            <OutdomainLink url="https://github.com/yashshah1">
+            <OutdomainLink url="https://stackoverflow.com/users/11362183/yash-shah">
               <FaStackOverflow size={32} />
             </OutdomainLink>
             <OutdomainLink url="https://instagram.com/itsmeyashshah">
