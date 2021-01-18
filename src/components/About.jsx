@@ -8,13 +8,17 @@ export default function About() {
       <main className="wrap">
         <article className="flex-container">
           <p>
-            I'm Yash, a final year Computer Engineering student at College of
-            Engineering Pune and an incoming Data Science Engineer at Wolters
-            Kluwer India.
+            I'm Yash, a Data Scientist at Wolters Kluwer India, and a Computer
+            Engineering graduate from College of Engineering Pune.
             <br />
             <br /> I was an intern with Wolters Kluwer from May '19 to Jan '20
             where I built a model recalibration pipeline to reduce time taken by
-            upto 60% and other peripheral tools.
+            upto 60% amongst other things.
+            <br />
+            <br /> I've also held multiple positions with the Software
+            Development Section, COEP through my college years where I've
+            contributed to and lead several teams which serviced both in-house
+            and external clients.
             <br />
             <br /> I've been writing code since I was 12 (Q Basic counts), and I
             absolutely love it. Currently, my heart lies in building full stack

@@ -4,7 +4,6 @@ import {
   FaLinkedinIn,
   FaGithub,
   FaStackOverflow,
-  FaInstagram,
   FaTwitter,
 } from "react-icons/fa";
 import { FiMail } from "react-icons/fi";
@@ -48,9 +47,6 @@ class Contact extends Component {
             </OutdomainLink>
             <OutdomainLink url="https://stackoverflow.com/users/11362183/yash-shah">
               <FaStackOverflow size={32} />
-            </OutdomainLink>
-            <OutdomainLink url="https://instagram.com/itsmeyashshah">
-              <FaInstagram size={32} />
             </OutdomainLink>
             <OutdomainLink url="https://twitter.com/JustAnotherYash">
               <FaTwitter size={32} />
