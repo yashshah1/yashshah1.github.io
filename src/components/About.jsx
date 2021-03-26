@@ -8,8 +8,13 @@ export default function About() {
       <main className="wrap">
         <article className="flex-container">
           <p>
-            I'm Yash, a Data Scientist at Wolters Kluwer India, and a Computer
-            Engineering graduate from College of Engineering Pune.
+            I'm Yash, a Software Engineer at Big Binary Solutions Pvt Ltd.
+            Currently, I work on building full stack web solutions using
+            ReactJS, NodeJS and Ruby on Rails for our clients. Before this, I
+            was a Data Scientist at Wolters Kluwer India where I worked with
+            re-calibrating existing blended NLP models and creating new ones to
+            support in-house products. Along with this, I also built highly
+            scaleable and concurrent APIs to allow realtime prediction.
             <br />
             <br /> I was an intern with Wolters Kluwer from May '19 to Jan '20
             where I built a model recalibration pipeline to reduce time taken by
@@ -21,8 +26,7 @@ export default function About() {
             and external clients.
             <br />
             <br /> I've been writing code since I was 12 (Q Basic counts), and I
-            absolutely love it. Currently, my heart lies in building full stack
-            software solutions. I am comfortable using the MERN stack, and have
+            absolutely love it. I am comfortable using the MERN stack, and have
             good control over Python.
             <br />
             <br /> Outside college, I spend my time reading books, writing code
